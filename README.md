@@ -1,3 +1,10 @@
+> [!WARNING]
+> **This repository is archived and no longer maintained.**
+>
+> It was created as a personal learning project and is kept for reference only.
+> Dependencies are outdated and may contain known security vulnerabilities.
+> Do not deploy or reuse this code as-is.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
